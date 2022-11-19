@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "705c4d967965b68645632fce4ba0c107"
-build_time: [1668875686, 901097000]
-inputs:
-  "/Users/rodabaebadi/AndroidStudioProjects/assignment2/macos/Runner/MainFlutterWindow.swift": [1668005746, 0]
-  "/Users/rodabaebadi/AndroidStudioProjects/assignment2/macos/Runner/AppDelegate.swift": [1668005746, 0]
-  "/Users/rodabaebadi/AndroidStudioProjects/assignment2/macos/Flutter/GeneratedPluginRegistrant.swift": [1668875681, 641750131]
