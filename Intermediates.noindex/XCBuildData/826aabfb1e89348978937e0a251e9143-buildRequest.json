@@ -1,0 +1,59 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "6b32ebdc0a3601a08720fffc1d1ad21ea26d6e580d3222b86d62fb80ec380c14"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos/Build/Products",
+      "derivedDataPath" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos",
+      "indexDataStoreFolderPath" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "COMPILER_INDEX_STORE_ENABLE" : "NO",
+          "OBJROOT" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos/Build/Intermediates.noindex",
+          "SYMROOT" : "/Users/rodabaebadi/AndroidStudioProjects/assignment2/build/macos/Build/Products"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
